@@ -1,0 +1,11 @@
+identifier: kbw85e6bh6d2q9lc
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: E:\projects\my-blog
+distFolder: dist/my-blog
+outDir: E:\projects\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
